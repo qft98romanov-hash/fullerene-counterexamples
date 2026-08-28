@@ -74,6 +74,18 @@ python verification/independent_fullerene_audit_ru.py verification \
   --json verification/reproduced/independent_fullerene_audit_results.json
 ```
 
+### Windows PowerShell
+
+On Windows, enable UTF-8 mode before running the verification scripts:
+
+```powershell
+$env:PYTHONUTF8 = "1"
+$env:PYTHONIOENCODING = "utf-8"
+
+py -3.12 .\verify_manifest_ru.py
+py -3.12 .\core\run_all_local_ru.py
+
+
 ## Exact machine-readable graph descriptions
 
 The five graphs underlying the counterexamples are specified by the exact
