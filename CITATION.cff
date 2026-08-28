@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this verification package, please cite the associated manuscript and this software release."
+title: "Verification package for Certified Counterexamples to Three Conjectures on Dual Fullerene Graphs"
+type: software
+authors:
+  - family-names: "Dorofeev"
+    given-names: "Ivan"
+version: "1.0.0"
+abstract: >-
+  Exact-arithmetic Python certificates and machine-readable graph data
+  supporting three counterexamples concerning dual fullerene graphs,
+  generalized Stone-Wales paths, cut-partitions, and spectral characters.
+keywords:
+  - fullerene graphs
+  - dual fullerene graphs
+  - spectral graph theory
+  - signless Laplacian
+  - exact arithmetic
+  - reproducible research

@@ -1,0 +1,27 @@
+{
+  "package": "fullerene_conjectures_audit",
+  "version": "0.1.0",
+  "created": "2026-08-04",
+  "article": {
+    "authors": "Bille--Buchstaber--Spodarev",
+    "journal": "Journal of Chemical Information and Modeling 65 (2025), 2911--2923",
+    "doi": "10.1021/acs.jcim.4c01997",
+    "audited_pdf_sha256": "fd1953fa9a2b34974c8e807f8550ef2c2d1b85b89e0dee65d701f73936f0503d"
+  },
+  "authors_repository": {
+    "url": "https://github.com/fullereneUulm/classification_of_combinatorially_equivalent_polytopes_thesis",
+    "commit": "5b5279a4ae3997b902ea05bf199382e076998819",
+    "file_sha256": {
+      "Newton_polynomials/non_unique_spectra/face_spiral_C32.txt": "0c44dbce48fbfb4a2cbf4d87cf518c5c2d7a939af001815bccf2e0582df1f7c5",
+      "Newton_polynomials/non_unique_spectra/face_spiral_C44.txt": "a83d7a34bc27b6195f9413460c4853bc15a08363aa07b2c4ad8b890568496110",
+      "character_of_fullerenes/character_results/alpha1_2_beta1_4/character_T_34.txt": "eb15db1436e1a620a8448f37aedd6c8423178027bb2e035e040290bd153fd6bd",
+      "character_of_fullerenes/character_results/alpha1_beta1_2/character_T_34.txt": "beb711a271f93e31fdd2b68a5ede71108b25cfb9192634adaea6f41d4dd1d37b"
+    }
+  },
+  "notes": [
+    "graph6 strings are the primary graph identifiers",
+    "core verification uses only Python standard library",
+    "floating-point values are never used as the proof of equality"
+  ]
+}
+

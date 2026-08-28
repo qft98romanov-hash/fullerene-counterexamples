@@ -1,0 +1,61 @@
+{
+  "python": "3.12.13 (main, Mar  3 2026, 14:59:34) [Clang 21.1.4 ]",
+  "executable": "python3",
+  "package_root": ".",
+  "scripts": [
+    {
+      "script": "core/audit_c32_op3_ru.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/core__audit_c32_op3_ru.txt",
+      "optimized_output": "reproduced/core__audit_c32_op3_ru.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "6e0a7d70ceeeb2274817d52d37e3cf10a9f549f1619e32d5d8fe0eca99e20ca3"
+    },
+    {
+      "script": "core/verify_op4_ru.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/core__verify_op4_ru.txt",
+      "optimized_output": "reproduced/core__verify_op4_ru.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "a876730d33841c1c2b03e47f490ff12bcdf4c7e2fc5d32e84b2db0dd258ee93e"
+    },
+    {
+      "script": "core/verify_op4_compact_ru.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/core__verify_op4_compact_ru.txt",
+      "optimized_output": "reproduced/core__verify_op4_compact_ru.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "cc2965aa60f31eb804866bbfff1a667a3c13f342b4972a2ce2d03b43613f6453"
+    },
+    {
+      "script": "core/check_package_consistency_ru.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/core__check_package_consistency_ru.txt",
+      "optimized_output": "reproduced/core__check_package_consistency_ru.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "ad3dab495549983d43b88f75eef50f5ce4b626ff11a912fc4f5a193aecc0083f"
+    },
+    {
+      "script": "independent_stdlib_audit.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/independent_stdlib_audit.txt",
+      "optimized_output": "reproduced/independent_stdlib_audit.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "8373ad8009a81252a96d87e131a2ee7669bb83edd7dddab92456897fe45aa774"
+    },
+    {
+      "script": "property_tests_stdlib.py",
+      "normal_returncode": 0,
+      "optimized_returncode": 0,
+      "normal_output": "reproduced/property_tests_stdlib.txt",
+      "optimized_output": "reproduced/property_tests_stdlib.optimized.txt",
+      "outputs_byte_identical": true,
+      "normal_output_sha256": "ea932f79c2b3b7ffc2dc4f44093af7bb35c43a6404ca8daa10c2b8345ab2a190"
+    }
+  ]
+}

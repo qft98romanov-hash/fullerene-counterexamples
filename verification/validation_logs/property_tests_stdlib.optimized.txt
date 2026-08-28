@@ -1,0 +1,6 @@
+PROPERTY TESTS STDLIB: PASS
+graph6 decoder cases: 56
+matrix power cases: 60
+characteristic polynomial comparisons: 72
+C32 random relabelings: 30
+C34 interval comparisons: 6

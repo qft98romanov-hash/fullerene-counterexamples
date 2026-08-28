@@ -1,0 +1,11 @@
+# Preserve reproducibility-critical line endings on all platforms.
+* text=auto
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.sha256 text eol=lf
+*.g6 text eol=lf
+*.cff text eol=lf
+*.zip binary
+*.pdf binary
