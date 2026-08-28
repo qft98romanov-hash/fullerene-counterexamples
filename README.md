@@ -116,7 +116,7 @@ Independent Lean and Rocq source files were supplied during an external review. 
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The repository URL, release date, journal citation, and DOI should be added after the repository and article records have been created.
+Citation metadata are provided in `CITATION.cff`. The archived release `v1.0.1` is permanently available on Zenodo under DOI `10.5281/zenodo.22143505`. The journal citation should be added after publication of the associated article.
 
 ## License
 
