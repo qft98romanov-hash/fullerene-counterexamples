@@ -120,4 +120,4 @@ Citation metadata are provided in `CITATION.cff`. The repository URL, release da
 
 ## License
 
-No public license has yet been selected for this draft. Resolve `LICENSE_TODO.md` before making the repository public.
+The verification code and repository documentation are released under the MIT License. See `LICENSE`.
