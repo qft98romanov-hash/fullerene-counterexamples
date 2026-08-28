@@ -9,6 +9,7 @@ version: "1.0.1"
 date-released: "2026-08-28"
 repository-code: "https://github.com/qft98romanov-hash/fullerene-counterexamples"
 license: MIT
+doi: "10.5281/zenodo.22143505"
 abstract: >-
   Exact-arithmetic Python certificates and machine-readable graph data
   supporting three counterexamples concerning dual fullerene graphs,
