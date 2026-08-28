@@ -6,6 +6,7 @@ authors:
   - family-names: "Dorofeev"
     given-names: "Ivan"
 version: "1.0.0"
+repository-code: "https://github.com/qft98romanov-hash/fullerene-counterexamples"
 abstract: >-
   Exact-arithmetic Python certificates and machine-readable graph data
   supporting three counterexamples concerning dual fullerene graphs,
