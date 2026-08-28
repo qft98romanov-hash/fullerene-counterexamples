@@ -18,7 +18,7 @@ All proof-bearing comparisons in the core package use integer or rational arithm
 ├── README.md
 ├── CITATION.cff
 ├── .gitignore
-├── LICENSE_TODO.md
+├── LIICENSE
 ├── verification/
 │   ├── data/
 │   ├── core/
